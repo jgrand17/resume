@@ -44,7 +44,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/Jorgepic.jpg"),
   imageSize: 375,
   message: "My name is Jorge Granados. ",
   resume:
