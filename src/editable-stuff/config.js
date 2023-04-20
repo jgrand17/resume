@@ -48,7 +48,7 @@ const about = {
   imageSize: 375,
   message: "My name is Jorge Granados. ",
   resume:
-    "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "https://docs.google.com/document/d/1U4MI1S5t7D_C5dH2v8RyssFx6D_Wr4cU/edit?usp=sharing&ouid=107193892437803207416&rtpof=true&sd=true",
 };
 
 // PROJECTS SECTION
