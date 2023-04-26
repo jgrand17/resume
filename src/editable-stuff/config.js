@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Jorge",
   middleName: "",
   lastName: "Granados",
-  message: " Passionate about changing the world with technology. ",
+  message: "  ",
   icons: [
     {
       image: "fa-github",
@@ -17,12 +17,8 @@ const mainBody = {
     },
 
     {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
-    {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/jorge-a-granados/",
     },
   ],
 };
