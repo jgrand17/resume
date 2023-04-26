@@ -55,9 +55,9 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  gitHubUsername: "Jorge Granados", //i.e."johnDoe12Gh"
+  reposLength: 1,
+  specificRepos: [1],
 };
 
 // Leadership SECTION
@@ -89,14 +89,13 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "", value: 90 },
+    { name: "SQL", value: 15 },
+    { name: "real time analytics", value: 85 },
+    { name: "Genesys Suite", value: 90 },
+    { name: "JavaScript", value: 30 },
+    { name: "React", value: 30 },
+    { name: "HTML/CSS", value: 30 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -106,7 +105,6 @@ const skills = {
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
   ],
 };
 
@@ -114,9 +112,8 @@ const skills = {
 const getInTouch = {
   show: true,
   heading: "Get In Touch",
-  message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+  message: "I'm currently looking for workforce managemnt",
+  email: "jgrand1717@gmail.com",
 };
 
 const experiences = {
@@ -124,7 +121,7 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: "Software Engineer", // Here Add Company Name
+      role: "Workforce managment", // Here Add Company Name
       companylogo: require("../assets/img/dell.png"),
       date: "June 2018 – Present",
     },
